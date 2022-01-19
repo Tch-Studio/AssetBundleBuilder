@@ -1,0 +1,15 @@
+{
+  "name": "com.tch.assetbundlebuilder",
+  "version": "0.0.1",
+  "displayName": "Asset Bundle Builder",
+  "description": "A system for automatically building, managing, and publishing asset bundles.",
+  "unity": "2018.4",
+  "author": {
+    "name": "TCH",
+    "email": "anztechstudio@gmail.com",
+    "url": "https://github.com/ANZTECHSTUDIO/"
+  },
+  "dependencies": {
+    "com.unity.editorcoroutines": "0.0.1"
+  }
+}
